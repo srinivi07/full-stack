@@ -1,0 +1,35 @@
+/*selector{
+property:value;
+}*/
+
+p {
+    color: cadetblue;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+#text {
+    color: rgb(165, 151, 29);
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font: size 10px;
+    text-decoration: dotted;
+}
+
+.link {
+    color: coral;
+    text-decoration: line-through;
+}
+
+* {
+    background-color: bisque;
+}
+
+h1,
+a,
+p {
+    color: aqua;
+}
