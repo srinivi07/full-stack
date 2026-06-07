@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 20px;
+}
+.list{
+    list-style: none;
+}
+.link{
+    text-decoration: dotted;
+    color: burlywood;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+}
+.link:hover{
+    color: gold;
+    background-color: aquamarine;
+
+}
