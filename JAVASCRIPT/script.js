@@ -197,16 +197,16 @@
 // var sum = arr.reduce((add,val)=>(add+val),0);
 // console.log(sum)
 
-var username={
-    name:"nivi",
-    dept:"ct",
-    skills:{
-        programming:["java","js","css"],
-        database:["sql"],
-    }
-}
-var user ={
-    ...username,
-    password:1235
-}
-console.log(user);
+// var username={
+//     name:"nivi",
+//     dept:"ct",
+//     skills:{
+//         programming:["java","js","css"],
+//         database:["sql"],
+//     }
+// }
+// var user ={
+//     ...username,
+//     password:1235
+// }
+// console.log(user);
