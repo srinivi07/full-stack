@@ -7,6 +7,7 @@ import Contact from './pages/Contact'
 import Home from './pages/Home'
 import Service from './pages/Service'
 import { Routes,Route } from 'react-router-dom'
+import Todo from './pages/Todo'
 const App = ()=>{
   return (
     <>
@@ -19,6 +20,7 @@ const App = ()=>{
       <Route path='/parent' element={<Parent/>}/>
       <Route path='/usestate' element={<Counter/>}/>
       <Route path='/useEffect' element={<Effect/>}/>
+      <Route path='/todo' element={<Todo/>}/>
     </Routes>
     </>
   )

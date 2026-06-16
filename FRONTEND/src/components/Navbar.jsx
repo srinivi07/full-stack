@@ -14,6 +14,7 @@ Navbar = () => {
                     <li className="list"><Link className="link" to="/parent">props</Link></li>
                      <li className="list"><Link className="link" to="/useState">Counter</Link></li>
                       <li className="list"><Link className="link" to="/useEffect">useEffect</Link></li>
+                      <li className="list"><Link className="link" to="/todo">Todo</Link></li>
                    
             </ul>
 
